@@ -11,5 +11,3 @@ def fizzbuzz(num)
     "Buzz"
   end
 end
-
-puts fizzbuzz(15)
