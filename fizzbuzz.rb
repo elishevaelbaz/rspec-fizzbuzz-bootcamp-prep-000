@@ -11,3 +11,5 @@ def fizzbuzz(num)
     "FizzBuzz"
   end
 end
+
+fizzbuzz(15)
